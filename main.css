@@ -15,7 +15,7 @@
 }
 
 body {
-  max-width: 60rem;
+  max-width: 37.5rem;
   margin: 4rem auto;
   padding: 1rem;
   font-family: var(--font-serif);
@@ -58,7 +58,7 @@ nav>ul {
 }
 
 figure {
-  margin: 2rem 1rem;
+  margin: 2rem 0;
 }
 
 figcaption {
@@ -67,6 +67,7 @@ figcaption {
 
 img {
   filter: drop-shadow(var(--shadow));
+  max-width: 100%;
 }
 
 code {
