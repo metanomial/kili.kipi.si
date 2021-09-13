@@ -19,9 +19,9 @@ o lukin e ijo pi pana sona:
 leko nimi mute la, nimi pi tawa poka li sama nimi pi tawa anpa. nimi pi tawa
 poka li sama ala nimi pi tawa anpa la, ni li "leko nimi pi nasin tu".
 
-toki mute li jo leko nimi mute mute. sina ken ala nanpa e leko nimi lon toki
-mute. taso, sina ken nanpa e leko nimi lon toki pona a! kepeken nimi pi ku suli
-(nimi 137) la, taso leko nimi 18 li alasa.
+toki mute li jo leko nimi mute mute. toki mute la, sina ken ala nanpa e leko
+nimi. taso, sina ken nanpa e leko nimi lon toki pona a! kepeken nimi pi ku suli
+(nimi 137) la, leko nimi 18 taso li alasa.
 
 <figure>
 <img src="/assets/leko-nimi-pi-ku-suli.svg" width="400" alt="leko nimi pi ku suli">
