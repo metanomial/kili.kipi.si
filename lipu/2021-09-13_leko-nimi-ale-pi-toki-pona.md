@@ -176,7 +176,7 @@ wile</textarea>
 
 <hr>
 
-pona tawa jan Sewaku. ona li pana e sona pi alasa pi leko nimi tawa mi. o lukin
+pona tawa jan Sewaku. ona li pana e sona alasa pi leko nimi tawa mi. o lukin
 tawa
 [ilo alasa ona pi leko nimi](https://github.com/shelvacu/rust-word-squares).
 
