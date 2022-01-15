@@ -1,9 +1,9 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="art-x-tokipona">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>kili kipisi{% if page.data.title %} | {{ page.data.title }}{% endif %}</title>
+<title>kili kipisi{% if page.title %} | {{ page.title }}{% endif %}</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fira+Mono&family=Merriweather&family=Merriweather+Sans:wght@700&display=swap">
@@ -13,10 +13,10 @@
 <link rel="alternate" type="application/atom+xml" title="toki Atom pi kili kipisi" href="/feed.xml"/>
 </head>
 <body>
-{{ content | safe }}
+{{ content }}
 <hr>
 <footer>
-<p><b>&copy;2021 jan Pensamin</b> CC-BY-SA 4.0</p>
+<p><b>&copy;2021–2022 jan Pensamin</b> CC-BY-SA 4.0</p>
 <p><a href="/feed.xml"><img src="/assets/rss.svg">telo tawa pi lipu sin</a></p>
 </footer>
 </body>
