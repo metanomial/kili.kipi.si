@@ -1,0 +1,21 @@
+---
+layout: default
+---
+<header style="text-align: center">
+  <image src="assets/logo.svg" alt="kili kipisi walo" width="200"></image>
+  <h1>kili kipisi</h1>
+  <p>tan jan Pensamin</p>
+</header>
+<hr>
+<nav>
+<ul>
+{% for page in site.pages %}
+<li>
+  <a class="heading" class="heading" href="{{ page.url }}">{{ page.title }}</a>
+  {% for tag in page.tags %}
+    <span class="tag">#{{tag}}</span>
+  {% endfor %}
+</li>
+{% endfor %}
+</ul>
+</nav>
