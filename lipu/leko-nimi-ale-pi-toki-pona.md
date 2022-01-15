@@ -1,9 +1,8 @@
 ---
 title: leko nimi ale pi toki pona
 tags:
-- lipu
 - musi-nimi
-layout: lipu.njk
+layout: lipu
 ---
 
 open la, o pali e lipu leko. o pana e sitelen tawa leko lili ale sama ni: linja
