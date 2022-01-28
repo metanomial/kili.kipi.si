@@ -52,7 +52,7 @@ o lukin e leko nimi ni pi toki Lasin. ni li ["leko Sato"](https://en.wikipedia.o
 toki mute li jo e leko nimi mute mute mute a! toki mute, la sina ken ala nanpa e leko nimi ale ken. taso, sina ken nanpa e leko nimi ale pi toki pona a! [nimi pu](https://wikipesija.org/wiki/nimi_pu) en [nimi ku suli](https://wikipesija.org/wiki/lipu_ku#nimi_ku_suli), la sina ken alasa taso e leko nimi 18:
 
 <figure>
-<p class="heading">1 en 1 (musi ala)</p>
+<p class="heading">1&times;1 (musi ala)</p>
 <table class="word-square">
   <tr><td>a</td></tr>
 </table>
@@ -65,24 +65,24 @@ toki mute li jo e leko nimi mute mute mute a! toki mute, la sina ken ala nanpa e
 <table class="word-square">
   <tr><td>o</td></tr>
 </table>
-<p class="heading">2 en 1</p>
+<p class="heading">2&times;1</p>
 <table class="word-square">
   <tr><td>e</td><td>n</td></tr>
 </table>
-<p class="heading">3 en 1</p>
+<p class="heading">3&times;1</p>
 <table class="word-square">
   <tr><td>o</td><td>n</td><td>a</td></tr>
 </table>
-<p class="heading">4 en 1</p>
+<p class="heading">4&times;1</p>
 <table class="word-square">
   <tr><td>n</td><td>e</td><td>n</td><td>a</td></tr>
 </table>
-<p class="heading">2 en 2</p>
+<p class="heading">2&times;2</p>
 <table class="word-square">
   <tr><td>e</td><td>n</td></tr>
   <tr><td>n</td><td>i</td></tr>
 </table>
-<p class="heading">3 en 3</p>
+<p class="heading">3&times;3</p>
 <table class="word-square">
   <tr><td>a</td><td>l</td><td>a</td></tr>
   <tr><td>l</td><td>e</td><td>n</td></tr>
@@ -128,7 +128,7 @@ toki mute li jo e leko nimi mute mute mute a! toki mute, la sina ken ala nanpa e
   <tr><td>t</td><td>a</td><td>n</td></tr>
   <tr><td>a</td><td>n</td><td>u</td></tr>
 </table>
-<p class="heading">4 en 3</p>
+<p class="heading">4&times;3</p>
 <table class="word-square">
   <tr><td>l</td><td>a</td><td>s</td><td>o</td></tr>
   <tr><td>o</td><td>l</td><td>i</td><td>n</td></tr>
