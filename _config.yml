@@ -1,5 +1,16 @@
+title: kili kipisi
+description: sitelen musi pi jan Pensamin
+author: jan Pensamin
+collections:
+  lipu:
+    output: true
+    permalink: /:name
+feed:
+
+  collections:
+    lipu:
+      path: /lipu-sin.atom
+exclude:
+  - /feed.xml
 plugins:
 - jekyll-feed
-title: kili kipisi
-description: ilo en sitelen musi tan jan Pensamin
-author: jan Pensamin
