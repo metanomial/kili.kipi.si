@@ -9,23 +9,6 @@
   --font-display: 'Bebas Neue', sans-serif;
 }
 
-@media print {
-  :root {
-    --text-color: revert;
-    --background-color: revert;
-    --anchor-color: revert;
-    --shadow: none;
-  }
-
-  p.back {
-    display: none;
-  }
-
-  hr {
-    all: revert;
-  }
-}
-
 * {
   margin: 0;
   padding: 0;
@@ -112,4 +95,25 @@ textarea {
   padding: 1rem;
   margin-block: 1rem;
   margin-inline: 0;
+}
+
+@media print {
+  :root {
+    --text-color: #000;
+    --background-color: none;
+    --anchor-color: navy;
+    --shadow: none;
+  }
+
+  a {
+    text-decoration: underline;
+  }
+
+  p.back {
+    display: none;
+  }
+
+  hr {
+    all: revert;
+  }
 }
