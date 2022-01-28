@@ -19,7 +19,7 @@ open, la o sitelen e leko. o sitelen leko lili insa leko sama ni:
 </table>
 </figure>
 
-sina ken kepeken nanpa leko ale: 3 en 3, 1 en 1, 13 en 8, awen.
+sina ken kepeken nanpa leko ale: 3&times;3, 1&times;1, 13&times;8, &hellip;
 
 ni, la o alasa e kulupu nimi sama ni: sina ken pana sitelen ale pi nimi ale lon insa pi leko sama ni: linja ale pi tawa poka en linja ale pi tawa anpa li jo e nimi pini.
 
