@@ -6,10 +6,9 @@ collections:
     output: true
     permalink: /:name
 feed:
-
   collections:
     lipu:
-      path: /lipu-sin.atom
+      path: /lipu-sin.xml
 exclude:
   - /feed.xml
   - readme.md
