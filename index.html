@@ -3,15 +3,18 @@ layout: default
 ---
 <header style="text-align: center">
   {% include logo.html width=200 %}
+  <h1>{{ site.title }}</h1>
+  <p>tan {{ site.author }}</p>
 </header>
 <hr>
 <nav>
 <ul>
-{% for page in site.pages %}
-<li>
-  <a class="heading" class="heading" href="{{ page.url }}">{{ page.title }}</a>
-  {% for tag in page.tags %}
-    <span class="tag">#{{tag}}</span>
+{% for lipu in site.lipu %}
+<li style="margin-block: 2rem">
+  <time datetime="{{ lipu.date }}" style="display: block; font-size: smaller">{{ lipu.date | date: "%Y-%m-%d" }}</time>
+  <a href="{{ lipu.url }}" style="font-family: var(--font-sans-serif); font-size: 1.4rem">{{ lipu.title }}</a>
+  {% for tag in lipu.tags %}
+    <span style="font-size: smaller; opacity: 0.7; margin-inline: 0.2rem">#{{ tag }}</span>
   {% endfor %}
 </li>
 {% endfor %}
