@@ -1,0 +1,17 @@
+name: Publish
+on:
+  push:
+    branches:
+      - main
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: lemonarc/jekyll-action@1.0.0
+      - uses: jakejarvis/backblaze-b2-action@master
+        env:
+          SOURCE_DIR: './_site'
+          B2_BUCKET: ${{ secrets.B2_BUCKET }}
+          B2_APPKEY_ID: ${{ secrets.B2_APPKEY_ID }}
+          B2_APPKEY: ${{ secrets.B2_APPKEY }}
