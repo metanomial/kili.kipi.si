@@ -136,9 +136,9 @@ toki mute li jo e leko nimi mute mute mute a! toki mute, la sina ken ala nanpa e
 </table>
 </figure>
 
-ni li ale a! tenpo lon la, leko nimi pi kulupu nimi "laso olin nena" li suli nanpa wan. ken, la tenpo kama, la nimi sin li ken e leko nimi sin.
+ni li ale a! tenpo lon, la leko nimi pi kulupu nimi "laso olin nena" li suli nanpa wan. ken, la tenpo kama, la nimi sin li ken e leko nimi sin.
 
-o ante e kulupu nimi ale, li alasa e leko nimi sin:
+o ante e kulupu nimi ale, li lukin e leko nimi sin:
 
 <textarea id="input" rows="12" spellcheck="false">
 # nimi ku suli
@@ -286,7 +286,7 @@ wile</textarea>
 
 pona o tawa jan Sewaku. ona li pana e sona alasa pi leko nimi tawa mi. o lukin
 tawa
-[ilo alasa ona pi leko nimi](https://github.com/shelvacu/rust-word-squares).
+[ilo alasa ona pi leko nimi](https://github.com/shelvacu/fwrf).
 
 <style>
 table.word-square {
