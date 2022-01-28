@@ -12,5 +12,6 @@ feed:
       path: /lipu-sin.atom
 exclude:
   - /feed.xml
+  - readme.md
 plugins:
 - jekyll-feed
